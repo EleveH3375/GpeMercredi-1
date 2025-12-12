@@ -1,2 +1,3 @@
 # GpeMercredi
-Un petit dépôt pour les premières NSI.
+Un petit dépôt pour les premières NSI.<br>
+Des trucs sur `html`, `css`, `javascript`...
